@@ -9,7 +9,11 @@ Syntactically Awesome Stylesheets (SASS) is a programming language that adds pow
 
 ## Why SASS?
 
-The reason why I chose SASS was because I felt like it was the perfect balance for me regarding something being a challange and a programming language that I can create something useful with. With SASS, I can be able to style any kind of project I want to create with concise and efficient CSS code. Giving a project personality and individuality is important because that is what makes the project stand out. Uniqueness is one of the many things that makes a project worth looking at. I feel if I learn this type of programming language, I will be able to have the upper hand on other projects because of the way my project will be presented to the public.  And when others look at my stylesheets, it will seem organized and effortless.
+The reason why I chose SASS was because I felt like it was the perfect balance for me regarding something being a challange and a programming language that I can create something useful with. With SASS, I can be able to style any kind of project I want to create with concise and efficient CSS code. Giving a project personality and individuality is important because that is what makes the project stand out. Uniqueness is one of the many things that makes a project worth looking at. I feel if I learn this type of programming language, I will be able to have the upper hand on other projects because of the way my project will be presented to the public. And when others look at my stylesheets, it will seem organized and effortless.
+
+## This Week's Takeaways
+
+
 
 
 ## My Plan for the Next 9 Weeks (Project Ideas)
