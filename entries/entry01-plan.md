@@ -13,7 +13,7 @@ The reason why I chose SASS was because I felt like it was the perfect balance f
 
 ## This Week's Takeaways
 
-
+For this week's takeaways, one thing I would advice anyone who is learning a new programming language is writing vocabulary down. With any new terms that you learn,it is imperitive to research them and understand what they do in that programming language. Taking notes will help you remember things better and it is a good tool to look back to when you are stuck. 
 
 
 ## My Plan for the Next 9 Weeks (Project Ideas)
