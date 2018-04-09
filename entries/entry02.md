@@ -9,13 +9,15 @@ I learned that SASS can be run by ruby as a gem or on the command line. SASS can
 ## What Was the Most Difficult Topic to Grasp and Why?
 
 
+
+
 ## Takeaways
 
 One takeaway that I have for this week is if you do not understand something, google it. When studying something on your own, what you do not understand is not going to come to you. If a specific topic is iffy or is completely confusing, there is almost always a simpler explanation to help you to better understand. 
 
 ## Next Steps (Focal Points for Next Week/Topics I Need to Focus On)
 
-My next step is to finish the documentation 
+My next step is to finish up reading the last half of the documentation and watch this YouTube video I found that I am hoping will help me better understand all the documentation I have read. Or at least, help me visualize how SASS will work. 
 
 
 
