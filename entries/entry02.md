@@ -17,11 +17,11 @@ One takeaway that I have for this week is if you do not understand something, go
 
 ## Next Steps (Focal Points for Next Week/Topics I Need to Focus On)
 
-My next step is to finish up reading the last half of the documentation and watch this YouTube video I found that I am hoping will help me better understand all the documentation I have read. Or at least, help me visualize how SASS will work. 
+My next step is to finish up reading the last half of the documentation and watch this YouTube video I found that I am hoping will help me better understand all the documentation I have read. Or at least, help me visualize how SASS will work. I also plan on tinkering and seeing how the topics I learned today like variables and nested properties will help me create what I intend on creating (undecided).
 
 
 
+[Previous](../entries/entry01-plan.md)
 Next
-
 
 [Table of Contents](../README.md)
