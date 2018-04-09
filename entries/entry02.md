@@ -21,7 +21,7 @@ My next step is to finish up reading the last half of the documentation and watc
 
 
 
-[Previous](../entries/entry01-plan.md)
+[Previous](../entries/entry01-plan.md) |    
 Next
 
 [Table of Contents](../README.md)
