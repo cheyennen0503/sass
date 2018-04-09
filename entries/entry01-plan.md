@@ -25,7 +25,7 @@ For week 2 and 3, I plan on reading documentation for SASS on its website and on
 
 
 
-Next
+[Next](../entries/entry02.md)
 
 
 [Table of Contents](../README.md)

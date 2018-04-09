@@ -3,7 +3,7 @@
 ## Table of Contents 
 
 + [Entry 1: Intro](entries/entry01-plan.md)
-+ Entry 2:
++ {Entry 2: Research](entries/entry02.md)
 + Entry 3:
 + Entry 4:
 + Entry 5:
