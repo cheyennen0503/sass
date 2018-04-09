@@ -2,16 +2,19 @@
 
 For week two, it has been strictly research. In the SASS website's documentation, I delved deep into the first six topics: features, syntax, using SASS, CSS extentions, comments, and sassscript. 
 
-##Important Things I Learned 
+## Important Things I Learned 
+
 I learned that SASS can be run by ruby as a gem or on the command line. SASS can also update as a file is changing meaning SASS is flexiable. There are about 25 different options that have different fuctions varying from how you want the SASS file to update as you are changing your file to catche options that speed up the functionality of SASS and gives it a pathway to debugging. I learned that you can decide between SASS and SCSS syntax by accessing it in the command line and it runs based on the file extention that it is linked to if it has one. There are nested properties such as fonts that makes the code look easier to read because you do not have to type the leading word over and over again. You can just type font once and then write size style and color. You can set variables with SassScript that make it eaasier to use the same item over and over again. You can make variables global. SassScript has eight different data types. Maps have key/value pairs similar to a hash. Lists are created by spaces or commas. Lists are powerful because you can have one within itself. You can use operations in SASS that allow you to find a set number for something with other numbers that you already have. While there was a lot more information than this in the documentation, this is what I can grasp about these topics as of right now. I have learned something about myself; while I am good at retaining information, I am not very good at decfering or comprehending information that is either new to me or that I have had trouble with in the past. 
 
-##What Was the Most Difficult Topic to Grasp and Why?
+## What Was the Most Difficult Topic to Grasp and Why?
 
 
-##Takeaways
+## Takeaways
+
 One takeaway that I have for this week is if you do not understand something, google it. When studying something on your own, what you do not understand is not going to come to you. If a specific topic is iffy or is completely confusing, there is almost always a simpler explanation to help you to better understand. 
 
-##Next Steps (Focal Points for Next Week/Topics I Need to Focus On)
+## Next Steps (Focal Points for Next Week/Topics I Need to Focus On)
+
 My next step is to finish the documentation 
 
 
