@@ -4,8 +4,10 @@ For week three, I had a hard time. This was the week I was dreading only because
 
 ## SCSS vs. CSS
 
-When I first started the CSS codecademy, I did not understand what SCSS was and how it pertained to SASS. I then realized that SCSS is the syntax of SASS (I found this out by googling!). The difference between SCSS and CSS is the efficiency. For example: <img src="../img2.png" style="width: 300px;" />
-+ As you can see the SCSS file uses variables that can be reused to keep the code D.R.Y.
+When I first started the CSS codecademy, I did not understand what SCSS was and how it pertained to SASS. I then realized that SCSS is the syntax of SASS (I found this out by googling!). The difference between SCSS and CSS is the efficiency. 
+For example: <img src="../img2.png" style="width: 300px;" />
++ As you can see, if you take a look at ```.banner```, the SCSS file uses variables that can be reused to keep the code D.R.Y.
++ It also uses nesting which is a great tool SCSS has that allows you to work on one aspect and style it just like you see in the ```border``` section of the ```.banner```. 
 
 ## Next Steps
 
