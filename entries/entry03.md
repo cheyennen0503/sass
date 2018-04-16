@@ -27,6 +27,12 @@ and used like this:
 ```width: $icon-square-length;```
 ```height: $icon-square-length;```
 
+## Maps and Lists
+
++ Lists look like this: ```$standard-border: 4px solid black;```. This is an example of a list assigned to a variable. The values can also be separated by a comma. 
++ Maps look like this: ```(key1: value1, key2: value2);```. They are similar to hashes where the key is assigned a value. Maps can be in lists, like this one, or in other maps. 
+
+
 ## Next Steps
 
 + Finish codecademy in a timely manner and keep tinkering!
