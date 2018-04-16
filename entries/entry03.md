@@ -9,6 +9,24 @@ For example: <img src="../img2.png" style="width: 300px;" />
 + As you can see, if you take a look at ```.banner```, the SCSS file uses variables that can be reused to keep the code D.R.Y.
 + It also uses nesting which is a great tool SCSS has that allows you to work on one aspect and style it just like you see in the ```border``` section of the ```.banner```. 
 
+## Compiling (?)
+
+When it comes to learning something new, especially on your own, you are not always going to understand everything that you are given. Some things take longer to understand and this is what I am realizing. I do not fully understand the concept of compiling, but the question I have about it that I cannot seem to answer is:
+1. When I am compiling, do I need both a CSS file and a SCSS file since codecademy says that in the command line I need to type ```sass main.scss main.css```. 
+What I do understand about compiling is that after you do compile, the program is now able to understand SCSS though the lower-level code (CSS). 
+
+## Data Types
+
+1. Numbers: Numbers are anything with a number in it. It can look like ```100``` and ```5px``` and ```12.34```. All are considered numbers. 
+2. Strings: Strings are any type of text. They do not need quotations around them. 
+3. Booleans: Booleans are true or false values. 
+4. Null: Nulls are empty values. 
+With these data types, you can assign them to a variable for easy use. Variables are set up like this:
+```$icon-square-length: 300px;```
+and used like this:
+```width: $icon-square-length;```
+```height: $icon-square-length;```
+
 ## Next Steps
 
 + Finish codecademy in a timely manner and keep tinkering!
