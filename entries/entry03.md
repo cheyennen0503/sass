@@ -32,6 +32,9 @@ and used like this:
 + Lists look like this: ```$standard-border: 4px solid black;```. This is an example of a list assigned to a variable. The values can also be separated by a comma. 
 + Maps look like this: ```(key1: value1, key2: value2);```. They are similar to hashes where the key is assigned a value. Maps can be in lists, like this one, or in other maps. 
 
+## Tinkering 
+
+
 
 ## Next Steps
 
@@ -42,7 +45,7 @@ and used like this:
 
 + Plan accordingly! Do not spend too much time on one resource. There are plenty out there that can be very helpful to the topic that you are trying to learn. 
 + Find what works for you. This bullet point pertains to the previous one meaning if you spend too much time on something that you are just not understanding, move on. (This is essential! Know when to go in a different direction to "unstuck" yourself).
-+ Code along. If you are doing something like codecademy, tinker a little bit with it. Build something small to see if you are truly understanding what you are learning. 
++ Code along. If you are doing something like codecademy, tinker a little bit with it. Build something small to see if you are truly understanding what you are learning. (I was not able to do this this week because of my question regarding compinilg, BUT I intend on tinkering next week!).
 
 
 
