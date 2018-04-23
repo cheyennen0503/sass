@@ -88,6 +88,22 @@ Conditionals are used when you want to do something while some condition is true
 
 ```
 
++ Else-ifs are used when if the first condition is true, another one could be true, otherwise some other rule in the ```@else``` gets used. 
+
+
+## Other Information
+One thing that makes SASS really amazing and flexiable is ```@import```. This rule allows you to separate/organize your functions and variables into multiple files and you can import those variables and funtions into your main file. There is also an ```@extend``` rule that allows for styling elements to be added to another element on top of their differentiating elements. For example: 
+```
+.lemonade {
+  border: 1px yellow;
+  background-color: #fdd;
+}
+.strawberry {
+  @extend .lemonade;
+  border-color: pink;
+}
+```
+
 
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
