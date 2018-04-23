@@ -55,6 +55,13 @@ When you do operations on colors, the operation is on every other number. For ex
 
 Arithmetic functions (+, -, /, *, %) are used in SASS. One thing to note about division is that it can also be used as a separator. When doing division, you only need to add the unit (px) to the first number otherwise it will not be division. 
 
+Each loops are iterations and they can be used to iterate through lists to make lists more dynamic. They look like this: 
+```
+@each $item in $list {
+  //some rules and or conditions
+}
+```
+
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
 2. Build small things with what I have learned in SASS so far. 
