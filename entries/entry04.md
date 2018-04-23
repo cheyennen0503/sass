@@ -2,7 +2,7 @@
 For this week, I had to pick up the pace with my learning. I finished up the last three sections of learning SASS codecademy.
 
 ## Mixins and the "&" Selector 
-When I first started reading about mixins in the SASS documentation, I did not understand how they worked the power of what they could do. When I saw it utilized for the first time in codecademy, I realized that mixins can be very helpful for keeping my code DRY. They can take in arguments, assign default values, and accepts arguments in any order. 
+When I first started reading about mixins in the SASS documentation, I did not understand how they worked the power of what they could do. When I saw it utilized for the first time in codecademy, I realized that mixins can be very helpful for keeping my code DRY. I think of a mixin as clumping information together in a variable and using it whenever you need to add it to something. They can take in arguments, assign default values, and accepts arguments in any order. 
 Mixins look like this:
 ```
 @mixin backface-visibility {
@@ -26,6 +26,9 @@ And are used like this:
   }
 }
 ```
++ It is important to know to ```@inlude``` your mixin if you want to use it with something like ```.notecard``` above. 
+
+The & selector is 
 
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
