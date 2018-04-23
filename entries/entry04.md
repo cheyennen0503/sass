@@ -61,6 +61,18 @@ Each loops are iterations and they can be used to iterate through lists to make 
   //some rules and or conditions
 }
 ```
++ The item changes depending on the position and iteration on the list meaning each item in the list when iterated over gets changes applied to it. 
+
+For loops are used when you want to initiate something up until a certain point. For example:
+```
+@for $i from 1 through $total {
+  .ray:nth-child(#{$i}) {
+    background: blue;
+   }
+}
+```
++ 
+
 
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
