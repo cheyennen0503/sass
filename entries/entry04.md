@@ -53,6 +53,8 @@ When I looked at the overview of this section, I noticed that there were familia
 
 When you do operations on colors, the operation is on every other number. For example if you have ``` $color: #010203 + #040506;```, the new number will become ```color: #050709;```.
 
+Arithmetic functions (+, -, /, *, %) are used in SASS. One thing to note about division is that it can also be used as a separator. When doing division, you only need to add the unit (px) to the first number otherwise it will not be division. 
+
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
 2. Build small things with what I have learned in SASS so far. 
