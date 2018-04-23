@@ -26,9 +26,27 @@ And are used like this:
   }
 }
 ```
-+ It is important to know to ```@inlude``` your mixin if you want to use it with something like ```.notecard``` above. 
++ It is important to know to ```@inlude``` your mixin if you want to use it with something like ```.notecard
++ When you want to add an argument to a mixin, you add it in parenthesis next to the mixin name and then argument becomes the value of everything in your mixin. For example:
+```
+@mixin backface-visibility($visibility) { //Add an argument
+  backface-visibility: $visibility;
+  -webkit-backface-visibility: $visibility;
+  -moz-backface-visibility: $visibility;
+  -ms-backface-visibility: $visibility;
+  -o-backface-visibility: $visibility;
+}
+```
 
-The & selector is 
+The & selector is basically used for when a mixin needs to be included from the parent selecor. It looks like this:
+```
+@mixin text-hover($color){
+  &:hover {
+      color: $color; 
+  }
+}
+
+```
 
 ## Next Steps
 1. Watch the Youtube Video. Since I was so focused on codecademy this week, watching this video I hope will help me get an even better understanding of SASS.
