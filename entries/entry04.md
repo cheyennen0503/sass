@@ -71,7 +71,22 @@ For loops are used when you want to initiate something up until a certain point.
    }
 }
 ```
-+ 
++ ```$i``` is dependent on the variable ```$total```. Once it reaches the variable, then the background will no longer be blue in ```.ray```. 
+
+Conditionals are used when you want to do something while some condition is true. They look like this:
+```
+@mixin deck($suit) {
+ @if($suit == hearts || $suit == spades){
+   color: blue;
+ }
+ @else-if($suit == clovers || $suit == diamonds){
+   color: red;
+ }
+ @else{
+   //some rule
+ }
+
+```
 
 
 ## Next Steps
