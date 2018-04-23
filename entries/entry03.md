@@ -48,6 +48,6 @@ and used like this:
 
 
 
-[Previous](../entries/entry02.md) |  Next
+[Previous](../entries/entry02.md) |  [Next](../entires/entry04.md)
 
 [Table of Contents](../README.md)

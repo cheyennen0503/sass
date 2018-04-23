@@ -5,7 +5,7 @@
 + [Entry 1: Intro](entries/entry01-plan.md)
 + [Entry 2: Research](entries/entry02.md)
 + [Entry 3: Codecademy](entries/entry03.md)
-+ Entry 4:
++ [Entry 4: ](entries/entry04.md)
 + Entry 5:
 + Entry 6:
 + Entry 7:
