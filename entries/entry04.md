@@ -1,4 +1,4 @@
-# Entry 4: fast Learning
+# Entry 4: Fast Learning
 For this week, I had to pick up the pace with my learning. I finished up the last three sections of learning SASS codecademy.
 
 ## Mixins and the "&" Selector 
