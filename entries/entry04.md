@@ -121,6 +121,6 @@ One thing that makes SASS really amazing and flexiable is ```@import```. This ru
 
 
 
-[Previous](../entries/entry03.md) |  Next
+[Previous](../entries/entry03.md) |  [Next](../entries/entry05.md)
 
 [Table of Contents](../README.md)
