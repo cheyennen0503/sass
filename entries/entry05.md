@@ -8,7 +8,20 @@ On this very helpful [website](https://community.c9.io/t/compile-scss-to-css/826
 1. First in my workspace I typed in my terminal cd .c9
 2. Then I had to create a new directory called builders
 3. After this, I cd into this directory and then create a compass.build file
-4. In this file, I type in this: <img src="../img5.png" style="width: 300px; />
+4. In this file, I type in this: 
+```
+{
+    "cmd" : [
+        "bash",
+        "--login",
+        "-c",
+        "compass compile /home/ubuntu/workspace/path/to/theme"],
+    "env" : {},
+    "info" : "Compiling SASS w/Compass ...",
+    "selector": "source.scss"
+}
+```
+5. Finally, when I am ready to create my project in Cloud 9, I go to Run, build system, and click on compass into that directory so that the SCSS is read as CSS. 
 
 ## Next Steps
 1. Start coming up with more ideas for my final project.
