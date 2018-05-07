@@ -6,6 +6,8 @@ My MVP, or minimal vial product, was the main focus for this week meaning that w
 
 <img src="../img7.png" style="width: 300px;" />
 
+As you can see, I put my beginning ideas of what I jotted down into code. It does need work, but I cannot spend too much time on one little detail. This was my first mistake. I spent about a day worrying about the navigation bar and why it did not resemble what I had in my mind. I went back to last year and tried to re-trace my steps. Unfortunately, I could not find the solution, so I moved on. For the rest of the week, I continued to study and break down my previous website into sections so that I can better understand and remember how to create one. 
+
 ## Next Steps
 1. Continue working on my MVP (the basic idea of what I want my website to look like).
 2. Look at some examples of websites that utilize SASS so I can find some inspiration. 
