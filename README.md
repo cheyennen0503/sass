@@ -8,6 +8,6 @@
 + [Entry 4: Fast Learning](entries/entry04.md)
 + [Entry 5: Planning for Final Project](entries/entry05.md)
 + [Entry 6: Setting Up the Final Project](entries/entry06.md)
-+ Entry 7:
++ [Entry 7: Going back and forth](entries/entry07.md)
 + Entry 8:
 + Entry 9:
