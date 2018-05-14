@@ -12,7 +12,7 @@ I decided to go with something that I can handle/manage by myself yet useful. Wi
 2. Continue to research new ideas that I can add to my page that can be used with SASS
 
 ## Takeaways
-+ Pace yourself wisely. Make sure you 
++ Pace yourself wisely. Make sure you know what you are going to do in the time frame you have. 
 + Map out one of your ideas. With a project like this, ideas are most likely flowing left and right which will guide you in many different directions. Choose one good one and stick with it. 
 
 
