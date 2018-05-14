@@ -19,7 +19,7 @@ For this week's takeaways, one thing I would advice anyone who is learning a new
 ## My Plan for the Next 9 Weeks (Project Ideas)
 
 For this first week, I spent most of my time researching a programming language. When I found SASS, I created a Google Doc to put some basic information about SASS together.
-<img src="../img.png" style="width: 300px;" />
+<img src="../Screen Shot 2018-05-14 at 7.47.35 AM.png" style="width: 300px;" />
 For week 2 and 3, I plan on reading documentation for SASS on its website and on any other websites that I find that can be useful to my learning. I also plan on watching some YouTube videos that will give me basic information on how SASS works. This week is meant for me to gather some basic information and take notes on the language. Week 4 and 5 is going to be all Codecademy. This way, I can learn how to properly use the code and see what the code is capable of. For week 6, I want to go back to the SASS website and read the Learn section of their documentation. This week will be reserved for tinkering. Week 7 and 8 is going to be coding my big project. I plan on creating a github page that becomes my portfolio. This is helpful for me because I can have all of my information in one area that anyone in the professional world can look at. I am excited and looking forward to learning SASS.
 
 
