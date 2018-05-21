@@ -9,5 +9,5 @@
 + [Entry 5: Planning for Final Project](entries/entry05.md)
 + [Entry 6: Setting Up the Final Project](entries/entry06.md)
 + [Entry 7: Going Back and Forth](entries/entry07.md)
-+ [Entry 8: ](entries/entry08.md)
++ [Entry 8: So Close yet so Far](entries/entry08.md)
 + Entry 9:
