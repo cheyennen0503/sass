@@ -4,8 +4,8 @@ For this week, I focused a lot on my SCSS. I wanted to make sure I had my code d
 <img src="../img10.png" style="width: 300px;" />
 
 ## Next Steps
-1.
-2.
+1. Ask friends and teacher for help with making my stylesheet appear on my page so that for the rest of the week I can focus on my presentation. 
+2. Make any last edits I need to do to make my page look the way I want it to. 
 
 ## Takeaways
 + ALWAYS check your work. I usually do this, but I became too encapsulated in making my code trying to perfect it and it only set me back in the end. 
