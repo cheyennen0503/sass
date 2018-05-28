@@ -10,4 +10,4 @@
 + [Entry 6: Setting Up the Final Project](entries/entry06.md)
 + [Entry 7: Going Back and Forth](entries/entry07.md)
 + [Entry 8: So Close yet so Far](entries/entry08.md)
-+ Entry 9:
++ [Entry 9: My Finished Product/Presentation](entries/entry09.md)
